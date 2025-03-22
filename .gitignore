@@ -1,0 +1,4 @@
+*.log
+__pycache__
+processed_rows.json
+credentials
